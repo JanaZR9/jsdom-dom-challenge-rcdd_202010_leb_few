@@ -1,6 +1,4 @@
 let submitBtn=document.getElementById("submit");
-let listComment=document.getElementById("list");
-let inputComment=document.getElementById("comment-input");
 let counter=document.getElementById("counter");
 let pauseBtn=document.getElementById("pause");
 let minusBtn=document.getElementById("minus");
